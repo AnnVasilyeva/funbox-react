@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/funbox-react/static/css/main.f737b846.css",
+    "main.js": "/funbox-react/static/js/main.add9ad21.js",
+    "static/js/787.1b0ceb40.chunk.js": "/funbox-react/static/js/787.1b0ceb40.chunk.js",
+    "static/media/kot_preview.png": "/funbox-react/static/media/kot_preview.336e2c1f7c4b66ec52d8.png",
+    "static/media/bg.png": "/funbox-react/static/media/bg.c002a026eae247718404.png",
+    "index.html": "/funbox-react/index.html",
+    "main.f737b846.css.map": "/funbox-react/static/css/main.f737b846.css.map",
+    "main.add9ad21.js.map": "/funbox-react/static/js/main.add9ad21.js.map",
+    "787.1b0ceb40.chunk.js.map": "/funbox-react/static/js/787.1b0ceb40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f737b846.css",
+    "static/js/main.add9ad21.js"
+  ]
+}
